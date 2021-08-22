@@ -6,10 +6,10 @@
 첫째 줄부터 N번째 줄까지 차례대로 별을 출력한다.
 */
 
-import java.util.*;
+import java.util.*; // 스캐너를 사용하기 위해서
 
-class Main{
-    public static void main(String [] args){
+class Main{ // Main 클래스
+    public static void main(String [] args){ // main 메소드
         Scanner a=new Scanner(System.in);
         int N=a.nextInt();
         
