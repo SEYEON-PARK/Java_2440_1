@@ -17,7 +17,7 @@ class Main{ // Main 클래스
             for (int j=i;j>0;j--){ // j가 i부터 0보다 클 때까지 1씩 감소하며 반복
                 System.out.print("*"); // 별 출력하기
             }
-            System.out.println();
+            System.out.println(); // 한 줄 띄기
         }
     }
 }
